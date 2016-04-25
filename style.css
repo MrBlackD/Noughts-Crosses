@@ -1,0 +1,19 @@
+td{
+	border:1px solid black;
+	width:50px;
+	height:50px;
+	font-size:18px;
+	text-align: center;
+}
+h2,h3{
+	text-align: center;
+}
+h2{
+	text-shadow: 3px 3px 3px black;
+}
+#caption,#restart{
+	display:none;
+}
+table{
+	margin:0 auto;
+}
